@@ -61,7 +61,7 @@ async function TourItem({
             </h3>
           </Link>
           <span className="font-semibold ml-auto text-2xl text-primary-500">
-            {tour.price} ₽
+            {tour.price} Br
           </span>
         </div>
         <div className="flex mb-4">
