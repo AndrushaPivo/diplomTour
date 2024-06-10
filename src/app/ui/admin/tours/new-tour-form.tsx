@@ -93,13 +93,13 @@ export default function NewTourForm({
           isRequired
           name="included"
           label="Что включено в стоимость"
-          placeholder="Еда; Страховка; Пиво"
+          placeholder="Еда; Страховка"
           description="Перечислить через ; "
         />
         <Textarea
           isRequired
           name="excluded"
-          placeholder="Страховка; Пиво"
+          placeholder="Страховка"
           label="Что не включено в стоимость"
           description="Перечислить через ; "
         />
