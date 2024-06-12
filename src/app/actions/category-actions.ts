@@ -1,6 +1,6 @@
 'use server'
 
-import { z } from 'zod'
+import { z } from 'zod' //библиотека zod для валидации
 import { del, put } from '@vercel/blob'
 import { revalidatePath } from 'next/cache'
 import { redirect } from 'next/navigation'
