@@ -80,7 +80,7 @@ export default async function Footer() {
               className="link text-text-secondary hover:text-primary-500 active:text-text-secondary p-0"
               href="tel:+79991234567"
             >
-              +7 (999) 123-45-67
+              +375 (33) 33-33-333
             </a>
             <a
               className="link text-text-secondary hover:text-primary-500 active:text-text-secondary p-0"
