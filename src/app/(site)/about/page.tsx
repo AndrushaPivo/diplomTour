@@ -20,7 +20,7 @@ export default function Page() {
           <p className="text-lg lg:text-xl">
             <strong>Наш телефон: </strong>
             <a href="tel:+79991234567" className="link">
-              +7 (999) 123-45-67
+              +375 (33) 33-33-333
             </a>
           </p>
           <p className="text-lg lg:text-xl">
